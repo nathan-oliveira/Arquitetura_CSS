@@ -1,0 +1,4 @@
+BEM
+B => Block => header, nav
+E => Element => elemento onde é serapado por dois underline
+M => Modifier => serapado por dois traços

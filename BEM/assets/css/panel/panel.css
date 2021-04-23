@@ -1,0 +1,22 @@
+.panel {
+  border: 1px solid #dcdcdc;
+  border-radius: 5px;
+}
+
+.panel__header {
+  background: #f5f5f5;
+  padding: .5rem .75rem;
+}
+
+.panel__body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+}
+
+.panel--error {
+  border-color: #ff8080;
+}
+
+.panel--error .panel__header {
+  background: rgba(255, 0, 0, .5);
+}
